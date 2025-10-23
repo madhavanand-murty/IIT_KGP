@@ -222,10 +222,5 @@ Artifacts saved:
 
 - Dataset: MetroDataset by EnfangCui et al. (https://github.com/EnfangCui/MetroDataset)
 - Libraries: PyTorch, NumPy, Pandas, scikit-learn, Matplotlib, Seaborn
-
-## License
-
-- Add your project’s license (e.g., MIT).  
-- The dataset follows its own licensing terms in the upstream repository.
-
 --- 
+
